@@ -1,7 +1,4 @@
-# Hurricanes
-Data bootcamp project
-
-This project is aimed to tell a story using hurricane data from 1851 to 2015.
+Hurricanes project tells a story using atlantic and pacific hurricane data from 1851 to 2015.
 Data is sourced from HURDAT (Hurricane Databases) which is managed by National Hurricane Center.
 
 The hurricanes website is an interactive website where users are allowed to select from several criteria such as year, hurricane name, country, etc. that they want to view.
